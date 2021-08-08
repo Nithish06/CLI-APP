@@ -8,20 +8,20 @@ console.log("Welcome ",user + " Let's start with the quiz: ");
 
 var question=[
     {
-    ques: "Who's my favorite hero",
+    ques: "Who's my favorite hero : ",
     ans: "captain america"
   },
     {
-    ques: "What's my favorite food?",
+    ques: "What's my favorite food? ",
     ans: "roti"
   },
   {
-    ques:"Where do I live?",
+    ques:"Where do I live? ",
     ans: "ranipet"
   },
 
   {
-    ques: "Where do I  work?",
+    ques: "Where do I  work? ",
     ans: "conversion flow"
   },
 
