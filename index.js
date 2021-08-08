@@ -33,7 +33,7 @@ function checkAnswers(data,res){
     console.log("Correct Answer,Your Score = "+ score);
   }else{
     score--;
-    console.log("Wrong Answer Your Score = "+score);
+    console.log("Wrong Answer Your Score = "+ score);
   }
 }
 
